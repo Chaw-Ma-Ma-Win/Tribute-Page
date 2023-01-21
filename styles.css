@@ -1,0 +1,61 @@
+html {
+    font-size: 13px;
+
+}
+
+body {
+    
+    color: #333;
+    text-align: center;
+    margin: auto;
+
+}
+h1 {
+    font-size: 60px;
+}
+
+img {
+    position: center;
+
+    width:80%;
+    background-color: white;
+} 
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+  max-width: 500px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+li {
+    margin: 15px 0;
+  }
+
+  main {
+    background: rgb(220, 216, 216); 
+    padding: 20px;
+    border-radius: 10px;
+
+  }
+
+  .image-div {
+    background-color: white;
+    padding: 15px;
+    margin: 0;
+  }
+
+  footer {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  #link-color {
+    color: rgb(39, 107, 201);
+
+  }
+  
